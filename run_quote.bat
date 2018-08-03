@@ -1,0 +1,1 @@
+swigwin-3.0.10\swig -c++ -java -package com.es.quote -outdir out/com/es/quote -I./TapQuoteAPI_V9.3.1.1_win64_20171211/include es_quote.i
